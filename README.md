@@ -1,2 +1,2 @@
 # CodeBountyTestRepo
-Test Reo
+Test Repo
